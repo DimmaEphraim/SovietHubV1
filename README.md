@@ -3,7 +3,7 @@
 
 
 ```lua
-loadstring(game:HttpGet(('https://github.com/DimmaEphraim/SovietHubV1/raw/main/Hub.lua')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/DimmaEphraim/SovietHubV1/main/Hub.lua')))()
 ```
 
 ## Supported Games
