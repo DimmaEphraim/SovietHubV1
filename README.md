@@ -15,6 +15,6 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/DimmaEphraim/SovietH
 - Knife Ability Test
 - Expedition Antarctica
 - Plane Crazy (In Development)
-- The Wild West (In Development)
+- The Wild West
 
 ## Discord: https://discord.gg/GYkNZ9UA5H
